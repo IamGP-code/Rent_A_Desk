@@ -1,0 +1,30 @@
+/* .nav-container{
+display:flex;
+flex-direction: row;
+width: 100%;
+height: 8vh;
+background-color: #e5e7e7;
+color: black;
+padding: 2px;
+box-shadow: 0 8px 6px -6px rgba(153,153,153,0.836);
+z-index: 10;
+justify-content:space-between;
+} */
+/* .container{
+  display: flex;   
+  flex-direction: column;
+} */
+/* .screens  {
+    display:flex;
+    align-items: center;
+    float: right;
+    justify-items: space-evenly;
+    padding: 0 40px ;
+} */
+
+/* .screen1 , .screen2{
+  color: black;
+font-size: 20px;
+padding: 10px ;
+ }  
+  */

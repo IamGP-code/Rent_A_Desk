@@ -1,0 +1,8 @@
+.tableContainer{
+    height: 80vh;
+    border: 2px solid black;
+}
+p{
+    top: 30px;
+    color: black;
+}
